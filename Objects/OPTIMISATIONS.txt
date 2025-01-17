@@ -1,9 +1,0 @@
----------------------- OPTIMISATION METHODS -----------------------
-OPTIMISATION: The METHOD setdatax in (MODULE: SDtensorflowClass) appears to be unused
-OPTIMISATION: The METHOD setdatay in (MODULE: SDtensorflowClass) appears to be unused
-OPTIMISATION: The METHOD training in (MODULE: SDtensorflowClass) appears to be unused
-OPTIMISATION: The METHOD predict in (MODULE: SDtensorflowClass) appears to be unused
-OPTIMISATION: The METHOD loadmodelfromlocalsorage in (MODULE: SDtensorflowClass) appears to be unused
-OPTIMISATION: The METHOD savemodeltolocalsorage in (MODULE: SDtensorflowClass) appears to be unused
----------------------- OPTIMISATION CLASSES -----------------------
----------------------- OPTIMISATION ASSETS -----------------------
